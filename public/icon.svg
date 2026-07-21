@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Code Academy icon">
+  <rect width="512" height="512" rx="120" fill="#081124"/>
+  <rect x="72" y="72" width="368" height="368" rx="88" fill="url(#grad)"/>
+  <path d="M184 190l-54 66 54 66" stroke="#fff" stroke-width="28" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <path d="M328 190l54 66-54 66" stroke="#fff" stroke-width="28" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <path d="M284 156l-56 200" stroke="#f8fafc" stroke-width="24" stroke-linecap="round"/>
+  <defs>
+    <linearGradient id="grad" x1="72" y1="72" x2="440" y2="440" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#2563eb"/>
+      <stop offset="100%" stop-color="#38bdf8"/>
+    </linearGradient>
+  </defs>
+</svg>
